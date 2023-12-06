@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @evangeliapant
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on Wordpress projects
-- 📫 evangelia.panteliadou@gmail.com
-- 👩 https://www.linkedin.com/in/evangelia-panteliadou/
+
